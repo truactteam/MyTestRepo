@@ -5,5 +5,11 @@
     ],
     "ignore": [],
     "source": "functions"
-  }
+  },
+  "appsail": [
+    {
+      "source": "C:\\Users\\hp\\AndroidStudioProjects\\MyApplication",
+      "name": "AppSail"
+    }
+  ]
 }
